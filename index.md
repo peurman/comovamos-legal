@@ -82,5 +82,5 @@ versión vigente.
 Dudas o reclamos sobre esta política:
 
 - Desarrollador: **peurman**
-- Email: *(reemplazar con tu correo público antes de publicar)*
+- Email: como.vamos.app@gmail.com
 - Repositorio de la App: https://github.com/peurman/como-vamos-mobile-app
