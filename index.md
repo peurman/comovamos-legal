@@ -5,7 +5,7 @@ description: Política de privacidad de la app Como Vamos (anotador de juegos de
 
 # Política de privacidad — Como Vamos
 
-**Última actualización:** 5 de octubre de 2026
+**Última actualización:** 7 de octubre de 2026
 
 Esta política explica qué datos maneja la aplicación móvil **Como Vamos** (la
 "App"), publicada en Google Play y en la App Store bajo el identificador
@@ -57,8 +57,25 @@ dirección IP de la conexión para poder procesar el envío; la App no la usa ni
 la guarda. Las sugerencias se usan únicamente para mejorar la App y no se
 venden ni se comparten con nadie más.
 
-Si mandaste una sugerencia y querés que se borre, escribí a
-como.vamos.app@gmail.com citando el texto que enviaste.
+Para pedir que se borre una sugerencia, ver [Borrar tus datos](#borrar-tus-datos).
+
+## Borrar tus datos
+
+Como Vamos no tiene cuentas: tus partidas están solo en tu teléfono y se
+borran al desinstalar la App o al borrar sus datos desde la configuración del
+sistema.
+
+Si mandaste una sugerencia y querés que se borre:
+
+1. Escribí a como.vamos.app@gmail.com con el asunto "Borrar sugerencia".
+2. Incluí el texto que enviaste (o una parte) y la fecha aproximada, para
+   poder encontrarla, ya que el envío es anónimo.
+3. La borramos del correo dentro de los 30 días y te confirmamos por
+   respuesta.
+
+Se borra el mensaje completo (texto, categoría, versión de la App y sistema
+operativo). No se conserva ninguna copia. Las sugerencias que nadie pide
+borrar se guardan solo mientras sirvan para mejorar la App.
 
 ## Datos que **no** se recolectan
 
